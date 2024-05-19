@@ -591,7 +591,7 @@ export const products = [
     productName: "Apple iPhone 13 Pro",
     imgUrl: phone05,
     category: "mobile",
-    price: 80009,
+    price: 80000,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
